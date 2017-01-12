@@ -1,0 +1,254 @@
+.container-fluid{
+  background-color: black;
+}
+
+.navbar-default{
+	width: 100%;
+	position: absolute;
+	background-color: black;
+}
+
+.navbar-header{
+	background-color: black;
+}
+
+.navbar-default .navbar-brand{
+	background-color: gray;
+	color: white;
+	display: inline-block;
+
+}
+
+#myName{
+  color: white;
+}
+
+.img-circle{
+	border-radius: 50%;
+	border-color: black;
+	border-width: 10px;
+	border-style: solid;
+}
+
+#Title{
+	font-size: 35px;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+#About{
+	background-image: url("https://s4.postimg.org/f8861xfrh/q7_FLyio.jpg");
+	padding: 20px;
+	width: auto;
+	height: auto;
+	font-size: 20px;
+	font-family: 'Source Sans Pro', sans-serif;
+	background-size: cover;
+}
+
+#About1{
+	color: white;
+}
+
+#Welcome{
+	font-size: 35px;
+}
+
+.buttonProperties{
+	border-radius: 4px;
+	text-align: center;
+	border: none;
+	padding: 4px;
+	width: 50px;
+	height: 50px;
+	transition: all .5s;
+	cursor: pointer;
+	margin: 1px;
+	overflow: hidden;
+	display: block;
+	  /*Transition*/
+	-webkit-transition: All 0.5s ease;
+	-moz-transition: All 0.5s ease;
+	-o-transition: All 0.5s ease;
+	-ms-transition: All 0.5s ease;
+	transition: All 0.5s ease;
+}
+
+.buttonProperties2{
+	border-radius: 4px;
+	text-align: center;
+	border: none;
+	padding: 4px;
+	width: 50px;
+	height: 50px;
+	transition: all .5s;
+	cursor: pointer;
+	margin: 1px;
+	overflow: hidden;
+	display: block;
+}
+
+.buttonText{
+	text-align: middle;
+	font-size: 1.5em;
+}
+
+.facebookButton{
+	background-color: #3b5998;
+}
+
+.facebookButton:hover{
+	width: 190px;
+}
+
+#fbIcon{
+	color: white;
+}
+
+.fbIcon2{
+	background-color: #3b5998;
+}
+
+
+#fbButtonText{
+	font-family: "lucida grande", tahoma, verdana, arial, sans-serif;
+	color: white;
+}
+
+
+.linkedinButton{
+	background-color: #007bb5;
+}
+
+.linkedinButton:hover{
+	width: 190px;
+}
+
+#linkedinIcon{
+	color: white;
+}
+
+#liButtonText{
+	font-family: "Myriad Pro", Myriad, "Liberation Sans", "Nimbus Sans L", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: white;
+}
+
+.liIcon2{
+	background-color: #007bb5;
+}
+
+.fccButton{
+	background-color: #006401;
+	width: 65px;
+}
+
+#fccIcon{
+	color: white;
+}
+
+.fccButton:hover{
+	width: 275px;
+}
+
+#fccButtonText{
+	color: white;
+	font: saxmono;
+}
+
+.fccIcon2{
+	background-color: #006401;
+	width: 65px;
+}
+
+.hubButton{
+	background-color: black;
+}
+
+#hubIcon{
+	color: white;
+}
+
+.hubButton:hover{
+	width: 170px;
+}
+
+#hubButtonText{
+	color:white;
+}
+
+.hubIcon2{
+	background-color: black;
+}
+
+
+.emailButton{
+	background-color: orange;
+}
+
+#emailIcon{
+	color: white;
+}
+
+.emailButton:hover{
+	width: 150px;
+}
+
+#emailText{
+	color:white;
+}
+
+.sameLine{
+	display: inline-block;
+}
+
+#Portfolio{
+	background-image: url("https://s4.postimg.org/9hhzo77rh/i_I96_Q8r.png");
+	background-size: cover;
+	font-family: 'Source Sans Pro', sans-serif;
+	padding: 30px;
+	width: auto;
+	height: auto;
+	color: white;
+	font-size: 20px;
+}
+
+#PortfolioTitle{
+	font-size: 35px;
+}
+
+#PortfolioHead{
+	position: center;
+}
+
+.opeq:hover{
+	opacity: .5;
+}
+
+#Contact{
+	background-color: black;
+	background-size: 100%;
+	font-family: 'Source Sans Pro', sans-serif;
+	padding: 30px;
+	width: auto;
+	height: auto;
+	color: white;
+	font-size: 20px;
+}
+
+#ContactTitle{
+	font-size: 35px;
+}
+
+.response{
+	color:black;
+}
+
+.singLine{
+	height: 40px;
+	padding: 5px;
+}
+
+#contentForm{
+	height: 200px;
+	padding: 5px;
+}
